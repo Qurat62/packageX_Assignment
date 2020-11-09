@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="238px" height="325px" viewBox="0 0 238 325" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Hero Element C1 Copy</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="238" height="325"></rect>
+    </defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-1440-/-Home-/-Final" transform="translate(0.000000, -819.000000)">
+            <g id="Scan-&amp;-Track-+-Parcel-Section-C2" transform="translate(0.000000, 689.000000)">
+                <g id="Hero-Element-C1-Copy" transform="translate(0.000000, 130.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <g mask="url(#mask-2)">
+                        <g transform="translate(-112.000000, 0.000000)">
+                            <circle id="Oval-Copy-17" fill="#1C2D41" fill-rule="nonzero" cx="142" cy="68" r="9"></circle>
+                            <circle id="Oval-Copy-17-Copy-4" fill="#1C2D41" fill-rule="nonzero" cx="142" cy="278" r="9"></circle>
+                            <circle id="Oval-Copy-17-Copy" fill="#1C2D41" fill-rule="nonzero" cx="198" cy="194" r="4"></circle>
+                            <circle id="Oval-Copy-17-Copy-2" fill="#1C2D41" fill-rule="nonzero" cx="247" cy="48" r="4"></circle>
+                            <circle id="Oval-Copy-17-Copy-3" fill="#1C2D41" fill-rule="nonzero" cx="197" cy="8" r="4"></circle>
+                            <rect id="Rectangle-Copy-30-Copy-2" fill="#02B67C" fill-rule="nonzero" x="73" y="104" width="71" height="21" rx="10.5"></rect>
+                            <rect id="Rectangle-Copy-30-Copy-3" fill="#02B67C" fill-rule="nonzero" x="73" y="304" width="71" height="21" rx="10.5"></rect>
+                            <rect id="Rectangle-Copy-31" fill="#FF1E59" fill-rule="nonzero" x="0" y="134" width="238" height="46" rx="23"></rect>
+                            <rect id="Rectangle-Copy-33-Copy-3" fill="#804DDF" fill-rule="nonzero" x="134" y="23" width="60" height="23" rx="11.5"></rect>
+                            <rect id="Rectangle-Copy-33-Copy-5" fill="#804DDF" fill-rule="nonzero" x="118" y="199" width="42" height="18" rx="9"></rect>
+                            <rect id="Rectangle-Copy-33-Copy-4" fill="#027AFF" fill-rule="evenodd" x="172" y="53" width="60" height="23" rx="11.5"></rect>
+                            <rect id="Rectangle-Copy-33-Copy-6" fill="#027AFF" fill-rule="evenodd" x="152" y="233" width="60" height="23" rx="11.5"></rect>
+                            <rect id="Rectangle-Copy-34-Copy" fill="#FFB02F" fill-rule="nonzero" x="216" y="0" width="122" height="33" rx="16.5"></rect>
+                            <rect id="Rectangle-Copy-34-Copy-2" fill="#FFB02F" fill-rule="nonzero" x="160" y="94" width="58" height="18" rx="9"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
